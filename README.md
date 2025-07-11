@@ -3,3 +3,9 @@
 
 ![kub](./IMGS/kub1.jpg)
 
+![kub](./IMGS/kub2.jpg)
+
+![kub](./IMGS/kub3.jpg)
+
+![kub](./IMGS/kub4.jpg)
+
