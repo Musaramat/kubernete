@@ -24,3 +24,15 @@
 ![kub](./IMGS/kub4.jpg)
 
 ![kub](./IMGS/kub5.jpg)
+
+![kub](./IMGS/kub6.jpg)
+
+![kub](./IMGS/kub7.jpg)
+
+![kub](./IMGS/kub8.jpg)
+
+![kub](./IMGS/kub9.jpg)
+
+![kub](./IMGS/kub10.jpg)
+
+![kub](./IMGS/kub11.jpg)
