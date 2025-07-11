@@ -36,3 +36,11 @@
 ![kub](./IMGS/kub10.jpg)
 
 ![kub](./IMGS/kub11.jpg)
+
+![kub](./IMGS/kub12.jpg)
+
+![kub](./IMGS/kub13.jpg)
+
+![kub](./IMGS/kub14.jpg)
+
+![kub](./IMGS/kub15.jpg)
